@@ -6,9 +6,9 @@ Required the V2 Board
 
 
 ## Usage:
-### Send message:
-Connect to your BBC:Microbit via a Serial Terminal app.
-Press the **A** button, and on the Serial Terminal type out your message.
 
-### Recieve message:
-When the pager recieves a message, the pager will blink. To read the message, press the gold button on the top.
+| Button | Function |
+| :-----------: | ------------------------------------------ |
+| Button A | Asks for input from Serial Terminal, then sends |
+| Button B | Toggles Ringer |
+| Gold Button | Displays most recent message |
