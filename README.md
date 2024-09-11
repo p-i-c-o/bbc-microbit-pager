@@ -13,6 +13,4 @@ Flash the "main.py" code to your pagers using [Python Microbit Flasher](https://
 | Gold Button | Displays most recent message |
 
 
-![Display most recent message](https://github.com/user-attachments/assets/81b3f891-005d-4c1f-83c7-f5d3b07bed1a)
-
 <img href="https://github.com/user-attachments/assets/81b3f891-005d-4c1f-83c7-f5d3b07bed1a" width="300">Diagram</img>
